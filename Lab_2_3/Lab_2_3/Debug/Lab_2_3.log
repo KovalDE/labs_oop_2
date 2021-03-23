@@ -1,0 +1,10 @@
+﻿  Money.cpp
+W:\OOP\Lab_2_3\Lab_2_3\Money.cpp(86,19): warning C4244: '=': conversion from 'long double' to 'unsigned int', possible loss of data
+W:\OOP\Lab_2_3\Lab_2_3\Money.cpp(92,15): warning C4244: 'argument': conversion from 'long double' to 'long', possible loss of data
+W:\OOP\Lab_2_3\Lab_2_3\Money.cpp(100): warning C4715: 'operator==': not all control paths return a value
+W:\OOP\Lab_2_3\Lab_2_3\Money.cpp(107): warning C4715: 'operator!=': not all control paths return a value
+W:\OOP\Lab_2_3\Lab_2_3\Money.cpp(121): warning C4715: 'operator<=': not all control paths return a value
+W:\OOP\Lab_2_3\Lab_2_3\Money.cpp(114): warning C4715: 'operator>=': not all control paths return a value
+W:\OOP\Lab_2_3\Lab_2_3\Money.cpp(128): warning C4715: 'operator>': not all control paths return a value
+W:\OOP\Lab_2_3\Lab_2_3\Money.cpp(135): warning C4715: 'operator<': not all control paths return a value
+  Lab_2_3.vcxproj -> W:\OOP\Lab_2_3\Debug\Lab_2_3.exe
