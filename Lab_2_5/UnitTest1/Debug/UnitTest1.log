@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+W:\OOP\Lab_2_5\Lab_2_5\Number.cpp(49): warning C4717: 'operator<<': recursive on all control paths, function will cause runtime stack overflow
+     Creating library W:\OOP\Lab_2_5\Debug\UnitTest1.lib and object W:\OOP\Lab_2_5\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> W:\OOP\Lab_2_5\Debug\UnitTest1.dll
